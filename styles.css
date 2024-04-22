@@ -1,0 +1,23 @@
+body{
+	font-family:arial;
+	background-color:#dec3f7;
+	text-align: centre;
+	padding:20px;
+}
+
+h1{
+	color:#81c8ae;
+	background-color:#c081c8;
+}
+nav{
+	color:#81c88c;
+	font-size:15px;
+}
+
+h2{
+	color:#a3be63;
+}
+h3{
+	color:#63beb1;
+}
+
